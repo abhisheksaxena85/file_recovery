@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Internal cache (staging dir for recovered files preview) -->
+    <cache-path name="cache" path="." />
+    <!-- App-private external files -->
+    <external-files-path name="external_files" path="." />
+    <!-- External storage root - for sharing from LOST.DIR etc. -->
+    <external-path name="external_storage" path="." />
+    <!-- Files dir -->
+    <files-path name="files" path="." />
+</paths>
